@@ -30,6 +30,8 @@
 				"destructuring": "all",
 				"ignoreReadBeforeAssign": false
 			}
-		]
+		],
+		"no-unused-vars": "warn",
+		"import/no-anonymous-default-export": "off"
 	}
 }
